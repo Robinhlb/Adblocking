@@ -17,3 +17,5 @@ Last Update: 04/3/25
 
 The List also tries to Clean UI from the filters Where Possible.
 
+This Filter is made For Ublock origin with the Adblocking Filter Syntax.
+
