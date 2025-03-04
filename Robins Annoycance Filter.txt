@@ -1,0 +1,199 @@
+!Created By Robinhlb On GitHub.
+
+!Misc
+/pagead.js
+/widget/ads.
+/ads.js
+/pagead.js$domain=d3ward.github.io
+
+! Reddit
+reddit.com##.premium-banner-outer
+reddit.com##.premium-subscription
+reddit.com##.adblock-warning
+reddit.com##.adblock-modal
+reddit.com##.promo-overlay
+reddit.com##.inline-promotion
+reddit.com###advertise-button > .justify-center.items-center.flex > .flex > svg > path
+www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(4)
+www.reddit.com##hr.border-0.bg-neutral-border-weak.w-100.h-px:nth-of-type(1)
+www.reddit.com##ul.w-100.p-0.m-0.list-none.my-xs:nth-of-type(2) > .contents > .relative.list-none.mt-0 > .flex.justify-between.relative.px-md.gap-\[0\.5rem\].text-secondary.hover\:text-secondary-hover.active\:bg-interactive-pressed.hover\:bg-neutral-background-hover.hover\:no-underline.cursor-pointer.py-xs.-outline-offset-1.no-underline
+www.reddit.com###RESOURCES > faceplate-tracker:nth-of-type(2) > .relative.list-none.mt-0 > .flex.justify-between.relative.px-md.gap-\[0\.5rem\].text-secondary.hover\:text-secondary-hover.active\:bg-interactive-pressed.hover\:bg-neutral-background-hover.hover\:no-underline.cursor-pointer.py-2xs.-outline-offset-1.s\:rounded-\[8px\].bg-transparent.no-underline
+www.reddit.com##award-button
+www.reddit.com##a.hover\:no-underline.no-underline:nth-of-type(2)
+www.reddit.com##h2.font-bold.text-18:nth-of-type(3)
+www.reddit.com##.m\:block.hidden > .contents.nd\:visible > .contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-\[2\] > nav > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-\[8px\].bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+www.reddit.com###RESOURCES
+www.reddit.com##.px-md.text-10.text-tone-2.no-underline
+www.reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
+www.reddit.com##.gap-xs.items-center.flex-wrap.gap-\[var\(--rem4\)\].flex.text-neutral-content-weak
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > nav > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-\[8px\].bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+
+! Twitter / X
+twitter.com##.dismissible-upgrade-prompt
+twitter.com##.subscription-overlay
+twitter.com##.pro-promo
+twitter.com##.ad-subscribe
+twitter.com##.upgrade-banner
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(5)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(9)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
+x.com##.r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-3o4zer.r-lp5zef.r-1ceczpf.r-lrvibr.r-rs99b7.r-1phboty.r-sdzlij.css-175oi2r
+x.com##.r-1ye8kvj.r-13qz1uu.r-f8sm7e.css-175oi2r > section.css-175oi2r > .css-175oi2r div.css-175oi2r > .r-1ny4l3l.r-1adg3ll.css-175oi2r > .css-175oi2r > .r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-3pj75a.r-w7s2jr.css-175oi2r
+x.com##.r-1ye8kvj.r-13qz1uu.r-f8sm7e.css-175oi2r > section.css-175oi2r > .css-175oi2r div.css-175oi2r > .r-1ny4l3l.r-1adg3ll.css-175oi2r > .css-175oi2r > .r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-3pj75a.r-1mmae3n.css-175oi2r
+x.com##.r-1ye8kvj.r-13qz1uu.r-f8sm7e.css-175oi2r > section.css-175oi2r > .css-175oi2r div.css-175oi2r > .r-1ny4l3l.r-1adg3ll.css-175oi2r > .css-175oi2r > .r-1ny4l3l.r-3pj75a.r-1mmae3n.r-1wtj0ep.css-175oi2r
+x.com##.r-4d76ec.css-175oi2r > .r-4d76ec.css-175oi2r
+x.com##.r-nsbfu8.r-dnmrzs.css-175oi2r
+x.com##.r-1pjcn9w.r-1awozwy.r-xr3zp9.r-1kihuf0.r-g6jmlv.r-ipm5af.r-1xcajam.r-1777fci.r-1pi2tsx.r-18u37iz.r-1ny4l3l.css-175oi2r > .r-11z020y.r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.css-175oi2r
+x.com##.r-16wqof.r-1dqxon3.r-16y2uox.r-kemksi.css-175oi2r
+x.com##.r-494qqr.css-175oi2r
+x.com##div.css-175oi2r:nth-of-type(3) > .r-1ny4l3l.r-1adg3ll.css-175oi2r
+
+! YouTube
+youtube.com##.ytp-paid-content-overlay
+youtube.com##.ytp-upgrade-button
+youtube.com##.ytp-promo-banner
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(11)
+www.youtube.com##ytd-settings-options-renderer.ytd-item-section-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2)
+www.youtube.com##.undefined > yt-button-shape
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+www.youtube.com##[href="https://www.youtube.com/ads/"]
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
+
+
+!Youtube Music
+music.youtube.com###items > ytmusic-guide-entry-renderer.style-scope.ytmusic-guide-section-renderer:nth-of-type(4) > tp-yt-paper-item.style-scope.ytmusic-guide-entry-renderer > .title-column.style-scope.ytmusic-guide-entry-renderer > .title-group.style-scope.ytmusic-guide-entry-renderer > .title.style-scope.ytmusic-guide-entry-renderer
+music.youtube.com###items > ytmusic-guide-entry-renderer.style-scope.ytmusic-guide-section-renderer:nth-of-type(4) > tp-yt-paper-item.style-scope.ytmusic-guide-entry-renderer > .guide-icon.style-scope.ytmusic-guide-entry-renderer
+music.youtube.com###items > ytmusic-guide-entry-renderer.style-scope.ytmusic-guide-section-renderer:nth-of-type(4) > tp-yt-paper-item.style-scope.ytmusic-guide-entry-renderer
+music.youtube.com##.ytp-paid-content-overlay
+music.youtube.com##.ytp-upgrade-button
+music.youtube.com##.ytp-promo-banner
+music.youtube.com##.ytmusic-guide-entry-renderer[aria-label="Upgrade"]
+music.youtube.com##.ytmusic-guide-entry-renderer:has(yt-formatted-string.title[title="Upgrade"])
+music.youtube.com##ytd-compact-link-renderer.yt-multi-page-menu-section-renderer.style-scope:nth-of-type(2)
+music.youtube.com###items > ytmusic-guide-entry-renderer.style-scope.ytmusic-guide-section-renderer:nth-of-type(4) > tp-yt-paper-item.style-scope.ytmusic-guide-entry-renderer > .guide-icon.style-scope.ytmusic-guide-entry-renderer
+music.youtube.com###items > ytmusic-guide-entry-renderer.style-scope.ytmusic-guide-section-renderer:nth-of-type(4) > tp-yt-paper-item.style-scope.ytmusic-guide-entry-renderer
+music.youtube.com##ytmusic-carousel-shelf-renderer.fullbleed.ytmusic-section-list-renderer.style-scope:nth-of-type(6) > .ytmusic-carousel-shelf-renderer.style-scope.ytmusic-shelf
+music.youtube.com##ytmusic-carousel-shelf-renderer.fullbleed.ytmusic-section-list-renderer.style-scope:nth-of-type(7)
+music.youtube.com##ytmusic-carousel-shelf-renderer.fullbleed.ytmusic-section-list-renderer.style-scope:nth-of-type(3)
+
+! Twitch
+twitch.tv##.ad-banner
+twitch.tv##.disable-adblock-overlay
+twitch.tv##.premium-banner
+twitch.tv##.adblock-detect
+twitch.tv##.prime-subscription-modal
+twitch.tv##.subscribe-button
+www.twitch.tv##.prime-offers.cwtKyw.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 .kBtJDm.InjectLayout-sc-1i43xsx-0 .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.kBEymU.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.hLLag.ScCoreButtonLabel-sc-s7h2b7-0
+www.twitch.tv##.gkrCJN.Layout-sc-1xcs6mc-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+twitch.tv##+js(twitch-videoad)
+www.twitch.tv##div.side-nav-section.dcyYPL.Layout-sc-1xcs6mc-0:nth-of-type(3)
+www.twitch.tv##div.side-nav-section.dcyYPL.Layout-sc-1xcs6mc-0:nth-of-type(4)
+www.twitch.tv##.hKEeil.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.kIbAir.ScCoreButton-sc-ocjdkq-0
+
+! Spotify
+spotify.com##.subscription-offer-banner
+spotify.com##.adblock-modal
+spotify.com##.premium-upgrade-overlay
+spotify.com##.subscribe-prompt
+spotify.com##.upgrade-modal
+spotify.com##button:has-text("Explore Premium")
+open.spotify.com##.encore-over-media-set.gDlqhe.ButtonInner-sc-14ud5tc-0
+open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(8)
+open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(3)
+open.spotify.com##.vvMORUKtQKpQcpQ992bR.mWj8N7D_OlsbDgtQx5GW
+open.spotify.com##.e-9541-overflow-wrap-anywhere.encore-text-body-small-bold.hpeoUw.Button-sc-1dqy6lx-0
+
+!Roblox
+www.roblox.com###navigation-robux-container > div > .robux-menu-btn.text-header.nav-menu-title.font-header-2
+www.roblox.com###nav-shop
+www.roblox.com###nav-giftcards
+www.roblox.com###navigation-robux-container
+www.roblox.com##.footer-links.row
+www.roblox.com##.copyright-container.row
+www.roblox.com##.section-content.col-xs-12.age-rating-details
+www.roblox.com###nav-blog
+www.roblox.com##.game-home-page-container > div > div:nth-of-type(5)
+www.roblox.com##.game-home-page-container > div > div:nth-of-type(7)
+www.roblox.com##.btn-secondary-md.btn-growth-md
+www.roblox.com##.ropro-icon
+www.roblox.com##.game-social-links
+www.roblox.com##.game-about-tab-container > div > h2
+www.roblox.com##.expand-home-content-disabled.game-carousel
+www.roblox.com##div.game-sort-carousel-wrapper:nth-of-type(2)
+www.roblox.com##.game-home-page-container > div > div:nth-of-type(3)
+www.roblox.com##.buy-robux-button.rbx-menu-item
+www.roblox.com##.container-header.col-xs-12
+www.roblox.com##.col-lg-4.col-md-5.hidden-sm.hidden-xs.rbx-navbar.nav > li:nth-of-type(2) > .text-header.nav-menu-title.font-header-2
+www.roblox.com##.col-lg-4.col-md-5.hidden-sm.hidden-xs.rbx-navbar.nav > li:nth-of-type(2)
+
+!Aternos - I Use a tampermonkey script to disable java script loading of ads and adblock killers/detectors on Aternos.org: "https://gist.github.com/ErdbeerbaerLP/e76dbbf54d29fc7cad1be59506ff1104"
+!The Scripts below are simply hiding web elements that were not blocked or make the site cleaner
+aternos.org##.server-b-tutorials
+aternos.org##.page-server.page-content > .help-center-articles
+aternos.org##.content > .help-center-articles
+aternos.org##footer
+aternos.org##.new.boost-cta-box
+aternos.org##.server-b-tutorials
+aternos.org##.header-center
+aternos.org##.responsive-sky-scraper
+aternos.org##.sidebar
+||aternos.org/panel/img/logo-white.svg$image
+aternos.org##.desktop.help > .btn-help > .btn-main.btn
+aternos.org##.btn-main.btn.domains-button
+aternos.org##.s8ztskflllb4xyv94zssrg > .help-center-articles
+
+!Facebook
+www.facebook.com##li:nth-of-type(10)
+www.facebook.com##li:nth-of-type(21)
+www.facebook.com##.xquyuld.x10wlt62.x6ikm8r.xh8yej3.x9f619.xt3gfkd.xu5ydu1.xdney7k.x1qpq9i9.x1jx94hy.x1ja2u2z.x1n2onr6 > .xh8yej3
+www.facebook.com##li:nth-of-type(22)
+www.facebook.com##li:nth-of-type(20) > div > .x1lliihq.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1gg8mnh.x1ja2u2z.x1n2onr6.xexx8yu.xurb0ha.x1sxyh0.x18d9i69.xeuugli.xdj266r.x1mh8g0r.x11i5rnm.xat24cr.x1qughib.xs83m0k.x1iyjqo2.x1q0g3np.x78zum5.x9f619.x972fbf.x13fuv20.xm0m39n.x26u7qi.xcfux6l.xu3j5b3.x1qhh985.x1q0q8m5.x6s0dn4
+www.facebook.com##li:nth-of-type(16) > div > .x1lliihq.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1gg8mnh.x1ja2u2z.x1n2onr6.xexx8yu.xurb0ha.x1sxyh0.x18d9i69.xeuugli.xdj266r.x1mh8g0r.x11i5rnm.xat24cr.x1qughib.xs83m0k.x1iyjqo2.x1q0g3np.x78zum5.x9f619.x972fbf.x13fuv20.xm0m39n.x26u7qi.xcfux6l.xu3j5b3.x1qhh985.x1q0q8m5.x6s0dn4
+www.facebook.com##.x7wzq59 > div > .xh8yej3.x1n2onr6.x78zum5.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.html-div > .xquyuld.x10wlt62.x6ikm8r.xh8yej3.x9f619.xt3gfkd.xu5ydu1.xdney7k.x1qpq9i9.x1jx94hy.x1ja2u2z.x1n2onr6 > .xkhd6sd.xwib8y2.x4uap5.x1iorvi4 > div:nth-of-type(6) > .x1lliihq.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1gg8mnh.x1ja2u2z.x1n2onr6.xexx8yu.xurb0ha.x1sxyh0.x18d9i69.xeuugli.xdj266r.x1mh8g0r.x11i5rnm.xat24cr.x1qughib.xs83m0k.x1iyjqo2.x1q0g3np.x78zum5.x9f619.x972fbf.x13fuv20.xm0m39n.x26u7qi.xcfux6l.xu3j5b3.x1qhh985.x1q0q8m5.x6s0dn4
+
+!Modrinth
+modrinth.com##.p-6.gap-4.flex-col.max-w-\[300px\].min-w-\[300px\].min-h-\[250px\].max-h-\[250px\].flex
+||cdn.modrinth.com/data/cached_images/fc98262c77afba9bdfa0e74487c1a5269f060331_0.webp$image
+||i.imgur.com/rWAQdYW.png$image
+||i.imgur.com/rWAQdYW.png$image
+modrinth.com##[href="/servers"]
+modrinth.com##div.btn-wrapper > [href="/app"]
+modrinth.com##footer
+modrinth.com##hr:nth-of-type(3)
+modrinth.com##div.btn-wrapper:nth-of-type(5) > .v-popper--theme-dropdown.v-popper > .v-popper--has-tooltip
+modrinth.com##.btn-wrapper > .v-popper--theme-dropdown.v-popper > .py-1.px-2.bg-transparent.rounded-xl.gap-1.items-center.flex.btn-dropdown-animation
+modrinth.com##.color-accent-contrast.btn-transparent.btn-purple.btn
+modrinth.com##a.color-accent-contrast.btn-transparent.btn:nth-of-type(8)
+modrinth.com##.outline.btn-wrapper > [href]
+modrinth.com##div.bg-bg-raised.rounded-2xl:nth-of-type(5)
+||wsrv.nl/$image
+||wsrv.nl/?url=https%3A%2F%2Fwww.bisecthosting.com%2Fpartners%2Fcustom-banners%2Ff8d261be-4548-4456-93f7-b3780517c6fd.webp&n=-1$image
+
+!Chatgpt
+chatgpt.com##.btn-primary.relative.btn.cursor-not-allowed.hover\:bg-inherit.opacity-50
+chatgpt.com##.px-2.m-0.rounded-lg.screen-arch\:min-h-\[47px\].screen-arch\:py-1\.5.screen-arch\:px-2.hover\:bg-token-sidebar-surface-secondary.items-center.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex.group
+
+!Netflix
+www.netflix.com##.rowHeader.ltr-0:style(margin-top: 80px !important;)
+netflix.com##.game-promotion
+netflix.com##.game-recommendation
+www.netflix.com##div[class*="game"]
+www.netflix.com##div[class*="billboard"]:not(.has-billboard)
+www.netflix.com##div[class*="lolomoRow"][data-list-context="configbased_cloudpersonalizedgames"]
+www.netflix.com##div[data-list-context*="games"]
+www.netflix.com##div[data-uia*="games"]
+www.netflix.com##a[href*="/games"]
+www.netflix.com##button[aria-label*="Games"]
+www.netflix.com##button[data-uia*="games"]
