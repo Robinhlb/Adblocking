@@ -1,8 +1,3 @@
-!Misc
-/pagead.js
-/widget/ads.
-/ads.js
-
 ! Reddit
 reddit.com##.premium-banner-outer
 reddit.com##.premium-subscription
@@ -26,7 +21,7 @@ www.reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
 www.reddit.com##.gap-xs.items-center.flex-wrap.gap-\[var\(--rem4\)\].flex.text-neutral-content-weak
 www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > nav > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-\[8px\].bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
 
-! Twitter / X
+! Twitter
 twitter.com##.dismissible-upgrade-prompt
 twitter.com##.subscription-overlay
 twitter.com##.pro-promo
@@ -64,8 +59,6 @@ www.youtube.com###guide-links-secondary
 www.youtube.com###copyright
 www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
-www.youtube.com###copyright
-
 
 !Youtube Music
 music.youtube.com###items > ytmusic-guide-entry-renderer.style-scope.ytmusic-guide-section-renderer:nth-of-type(4) > tp-yt-paper-item.style-scope.ytmusic-guide-entry-renderer > .title-column.style-scope.ytmusic-guide-entry-renderer > .title-group.style-scope.ytmusic-guide-entry-renderer > .title.style-scope.ytmusic-guide-entry-renderer
@@ -111,19 +104,12 @@ open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(8)
 open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(3)
 open.spotify.com##.vvMORUKtQKpQcpQ992bR.mWj8N7D_OlsbDgtQx5GW
 open.spotify.com##.e-9541-overflow-wrap-anywhere.encore-text-body-small-bold.hpeoUw.Button-sc-1dqy6lx-0
+open.spotify.com##.e-9960-button--leading.e-9960-button--small.e-9960-overflow-wrap-anywhere.encore-text-body-small-bold.dzIYeQ.Button-sc-1dqy6lx-0
 
-!ROBLOX
-!Roblox - The hunt
-www.roblox.com##.css-hitfbc-heroUnitContentContainer
-www.roblox.com##.sdui-feed-item-container > div
-!Roblox - Recommended
-www.roblox.com##.game-home-page-container > div > div:nth-of-type(4)
-www.roblox.com##.game-home-page-container > div > div:nth-of-type(5)
-www.roblox.com##.expand-home-content-disabled.game-carousel
-www.roblox.com##.games-detail.container-list > h2
-!Other
+!Roblox
+www.roblox.com##[data-testid="home-page-game-grid"]
+www.roblox.com##div.game-sort-carousel-wrapper:nth-of-type(2)
 www.roblox.com##.container-footer
-!Premium / Robux Buttons
 www.roblox.com##.btn-secondary-md.btn-growth-md
 
 !Aternos - I Use a tampermonkey script to disable java script loading of ads and adblock killers/detectors on Aternos.org: "https://gist.github.com/ErdbeerbaerLP/e76dbbf54d29fc7cad1be59506ff1104"
@@ -137,19 +123,16 @@ aternos.org##.server-b-tutorials
 aternos.org##.header-center
 aternos.org##.responsive-sky-scraper
 aternos.org##.sidebar
-||aternos.org/panel/img/logo-white.svg$image
 aternos.org##.desktop.help > .btn-help > .btn-main.btn
 aternos.org##.btn-main.btn.domains-button
 aternos.org##.s8ztskflllb4xyv94zssrg > .help-center-articles
+||aternos.org/panel/img/logo-white.svg$image
 
 !Facebook
 www.facebook.com##li:nth-of-type(10)
 www.facebook.com##li:nth-of-type(21)
 www.facebook.com##.xquyuld.x10wlt62.x6ikm8r.xh8yej3.x9f619.xt3gfkd.xu5ydu1.xdney7k.x1qpq9i9.x1jx94hy.x1ja2u2z.x1n2onr6 > .xh8yej3
 www.facebook.com##li:nth-of-type(22)
-www.facebook.com##li:nth-of-type(20) > div > .x1lliihq.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1gg8mnh.x1ja2u2z.x1n2onr6.xexx8yu.xurb0ha.x1sxyh0.x18d9i69.xeuugli.xdj266r.x1mh8g0r.x11i5rnm.xat24cr.x1qughib.xs83m0k.x1iyjqo2.x1q0g3np.x78zum5.x9f619.x972fbf.x13fuv20.xm0m39n.x26u7qi.xcfux6l.xu3j5b3.x1qhh985.x1q0q8m5.x6s0dn4
-www.facebook.com##li:nth-of-type(16) > div > .x1lliihq.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1gg8mnh.x1ja2u2z.x1n2onr6.xexx8yu.xurb0ha.x1sxyh0.x18d9i69.xeuugli.xdj266r.x1mh8g0r.x11i5rnm.xat24cr.x1qughib.xs83m0k.x1iyjqo2.x1q0g3np.x78zum5.x9f619.x972fbf.x13fuv20.xm0m39n.x26u7qi.xcfux6l.xu3j5b3.x1qhh985.x1q0q8m5.x6s0dn4
-www.facebook.com##.x7wzq59 > div > .xh8yej3.x1n2onr6.x78zum5.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.html-div > .xquyuld.x10wlt62.x6ikm8r.xh8yej3.x9f619.xt3gfkd.xu5ydu1.xdney7k.x1qpq9i9.x1jx94hy.x1ja2u2z.x1n2onr6 > .xkhd6sd.xwib8y2.x4uap5.x1iorvi4 > div:nth-of-type(6) > .x1lliihq.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1gg8mnh.x1ja2u2z.x1n2onr6.xexx8yu.xurb0ha.x1sxyh0.x18d9i69.xeuugli.xdj266r.x1mh8g0r.x11i5rnm.xat24cr.x1qughib.xs83m0k.x1iyjqo2.x1q0g3np.x78zum5.x9f619.x972fbf.x13fuv20.xm0m39n.x26u7qi.xcfux6l.xu3j5b3.x1qhh985.x1q0q8m5.x6s0dn4
 
 !Modrinth
 modrinth.com##.p-6.gap-4.flex-col.max-w-\[300px\].min-w-\[300px\].min-h-\[250px\].max-h-\[250px\].flex
@@ -185,17 +168,3 @@ www.netflix.com##div[data-uia*="games"]
 www.netflix.com##a[href*="/games"]
 www.netflix.com##button[aria-label*="Games"]
 www.netflix.com##button[data-uia*="games"]
-
-! 22 Mar 2025 https://www.roblox.com
-!Roblox - The hunt
-www.roblox.com##.css-hitfbc-heroUnitContentContainer
-www.roblox.com##.sdui-feed-item-container > div
-!Roblox - Recommended
-www.roblox.com##.game-home-page-container > div > div:nth-of-type(4)
-www.roblox.com##.game-home-page-container > div > div:nth-of-type(5)
-www.roblox.com##.expand-home-content-disabled.game-carousel
-www.roblox.com##.games-detail.container-list > h2
-!Other
-www.roblox.com##.container-footer
-!Premium / Robux Buttons
-www.roblox.com##.btn-secondary-md.btn-growth-md
